@@ -21,7 +21,7 @@
 <p>
   🎓 Currently studying Computer Engineering at PUC-Campinas<br>
   🌱 Passionate about exploring emerging tech and best coding practices<br>
-  💬 Ask me about software development, data structures and algorithms
+  💬 Ask me about software development, data structures, algorithms and OOP
 </p>
 
 ---
