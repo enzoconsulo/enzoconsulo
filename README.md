@@ -49,7 +49,7 @@
 ## 📈 Contributions 2025 <a name="contributions-2025"></a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzoconsulo&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://ghchart.rshah.org/enzoconsulo?theme=github&t=1" alt="GitHub Contributions Chart" />
 </p>
 
 ---
