@@ -88,14 +88,11 @@
 
 ## 📈 Contributions  2025 <a name="contributions-2025"></a>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/FFFFFF/enzoconsulo" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/000000/enzoconsulo" />
-    <img alt="GitHub Contributions Chart" src="https://ghchart.rshah.org/000000/enzoconsulo" style="border-radius:10px; box-shadow: 0 8px 24px rgba(2,6,23,0.08);"/>
-  </picture>
-
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/enzoconsulo?style=flat&color=10B981" 
+       alt="GitHub Contributions Chart" 
+       style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);" />
+</p>
 
 ## ✨ Featured Projects — (with small tech badges) <a name="projects"></a>
 
