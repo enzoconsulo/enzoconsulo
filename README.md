@@ -97,38 +97,57 @@
 
 </div>
 
-
-
-## ✨ Highlights
-
-<p align="center">
-  <a href="https://github.com/enzoconsulo?tab=repositories"><img src="https://badges.pufler.dev/repos/enzoconsulo" alt="Repos" /></a>
-  &nbsp; <a href="https://github.com/enzoconsulo"><img src="https://badges.pufler.dev/commits/yearly/enzoconsulo" alt="Contribs (yearly)" /></a>
-  &nbsp; <img src="https://img.shields.io/badge/Top%20Langs-Java%20%7C%20C%20%7C%20Python-lightgrey?style=flat-square" alt="Langs" />
-</p>
-
-<p align="center"><strong>Check my projects below or contact me for collaborations.</strong></p>
- 
-
-## ✨ Featured Projects  <a name="projects"></a>
+## ✨ Featured Projects — (with small tech badges) <a name="projects"></a>
 
 - **JAVA Chess Project** — Chess game implemented in Java with a graphical interface (Swing/JavaFX). Includes move validation, complete rules (en passant, castling, promotion), and a simple AI engine for playing against the computer.  
-  Link: https://github.com/enzoconsulo/JAVA-ChessProject
+  Link: https://github.com/enzoconsulo/JAVA-ChessProject  
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Swing-6DB33F?style=flat-square" alt="Swing" />
+    <img src="https://img.shields.io/badge/OOP-4B5563?style=flat-square" alt="OOP" />
+  </p>
 
 - **Spring Boot REST API (JPA)** — Full REST API with service and persistence layers using JPA/Hibernate. Implements CRUD operations, validation, custom exceptions, and example DB integrations.  
-  Link: https://github.com/enzoconsulo/JAVA.SpringBoot.WebProject-jpa
+  Link: https://github.com/enzoconsulo/JAVA.SpringBoot.WebProject-jpa  
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/JPA-Hibernate-4B5563?style=flat-square&logo=hibernate" alt="JPA/Hibernate" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql" alt="SQL" />
+  </p>
 
 - **Java Business Management** — Desktop system (Swing) for company records: clients, products and sales. Implements local persistence, basic reporting and form-based UI.  
-  Link: https://github.com/enzoconsulo/Java.GestaoEmpresarial
+  Link: https://github.com/enzoconsulo/Java.GestaoEmpresarial  
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Swing-6DB33F?style=flat-square" alt="Swing" />
+    <img src="https://img.shields.io/badge/File_IO-8B8B8B?style=flat-square" alt="File IO" />
+  </p>
 
 - **Data Structures (C)** — Collection of C implementations for lists, stacks, queues, trees and search/sort algorithms. Includes tests and benchmarks to compare complexity and performance.  
-  Link: https://github.com/enzoconsulo/C.EstruturaDeDados
+  Link: https://github.com/enzoconsulo/C.EstruturaDeDados  
+  <p>
+    <img src="https://img.shields.io/badge/C-5998C5?style=flat-square&logo=c" alt="C" />
+    <img src="https://img.shields.io/badge/Algorithms-4B5563?style=flat-square" alt="Algorithms" />
+    <img src="https://img.shields.io/badge/Memory-8B8B8B?style=flat-square" alt="Memory" />
+  </p>
 
 - **Genetic Algorithm (TSP)** — Python implementation of a genetic algorithm for the Traveling Salesman Problem. Contains population generation, crossover, mutation, selection and visualization of best routes.  
-  Link: https://github.com/enzoconsulo/Python.IA-OtimizacaoRotas
+  Link: https://github.com/enzoconsulo/Python.IA-OtimizacaoRotas  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/AI-4B5563?style=flat-square" alt="AI" />
+  </p>
 
 - **8-Puzzle Solvers (Python)** — Solvers for the 8-puzzle using BFS, DFS and A*, with heuristics and a simple Tkinter interface to visualize solution steps.  
-  Link: https://github.com/enzoconsulo/Python.MecanismosBusca-8puzzle
+  Link: https://github.com/enzoconsulo/Python.MecanismosBusca-8puzzle  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Tkinter-4B5563?style=flat-square" alt="Tkinter" />
+    <img src="https://img.shields.io/badge/Search-BFS, DFS, A*-4B5563?style=flat-square" alt="A*" />
+  </p>
 
 
 
