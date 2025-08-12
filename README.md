@@ -94,7 +94,7 @@
        style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);" />
 </p>
 
-## ✨ Featured Projects — (with small tech badges) <a name="projects"></a>
+## ✨ Featured Projects <a name="projects"></a>
 
 - **JAVA Chess Project** — Chess game implemented in Java with a graphical interface (Swing/JavaFX). Includes move validation, complete rules (en passant, castling, promotion), and a simple AI engine for playing against the computer.  
   Link: https://github.com/enzoconsulo/JAVA-ChessProject  
