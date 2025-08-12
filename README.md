@@ -2,7 +2,6 @@
 <p align="center">Welcome to my Profile</p>
 <p align="center">Undergraduate Student in Computer Engineering • PUC-Campinas</p>
 
-<!-- ===== Extra visual header (badges + quick info) ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enzoconsulo&style=flat-square" alt="Profile views" />
   &nbsp; <img src="https://img.shields.io/badge/Now%20Learning-CS50:%20Computer%20Science%20Course-blue?style=flat-square&logo=java" alt="Now learning" />
@@ -24,7 +23,6 @@
 ---
 
 <div align="center">
-  <!-- small profile summary cards that adapt to theme -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzoconsulo&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzoconsulo&theme=github" />
@@ -94,26 +92,26 @@
        style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);" />
 </p>
 
-## ✨ Featured Projects <a name="projects"></a>
+## ✨ Featured Projects — (with small tech badges) <a name="projects"></a>
 
-- **JAVA Chess Project** — Chess game implemented in Java with a graphical interface (Swing/JavaFX). Includes move validation, complete rules (en passant, castling, promotion), and a simple AI engine for playing against the computer.  
+- **JAVA Chess Project** — Chess game implemented in Java. Includes move validation, complete rules (en passant, castling, promotion).
   Link: https://github.com/enzoconsulo/JAVA-ChessProject  
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Swing-6DB33F?style=flat-square" alt="Swing" />
     <img src="https://img.shields.io/badge/OOP-4B5563?style=flat-square" alt="OOP" />
   </p>
 
-- **Spring Boot REST API (JPA)** — Full REST API with service and persistence layers using JPA/Hibernate. Implements CRUD operations, validation, custom exceptions, and example DB integrations.  
+- **Spring Boot REST API (JPA)** — REST API with service and persistence layers using JPA/Hibernate. Implements CRUD operations, validation, custom exceptions, and example DB integrations.  
   Link: https://github.com/enzoconsulo/JAVA.SpringBoot.WebProject-jpa  
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/JPA-Hibernate-4B5563?style=flat-square&logo=hibernate" alt="JPA/Hibernate" />
     <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql" alt="SQL" />
+    <img src="https://img.shields.io/badge/H2%20Database-0072C6?style=flat-square&logo=h2&logoColor=white" alt="H2 Database" />
   </p>
 
-- **Java Business Management** — Desktop system (Swing) for company records: clients, products and sales. Implements local persistence, basic reporting and form-based UI.  
+- **Java Business Management** — Desktop system (Swing) for business management: clients, products and sales. Implements local persistence, basic reporting and form-based UI.  
   Link: https://github.com/enzoconsulo/Java.GestaoEmpresarial  
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -125,7 +123,7 @@
   Link: https://github.com/enzoconsulo/C.EstruturaDeDados  
   <p>
     <img src="https://img.shields.io/badge/C-5998C5?style=flat-square&logo=c" alt="C" />
-    <img src="https://img.shields.io/badge/Algorithms-4B5563?style=flat-square" alt="Algorithms" />
+    <img src="https://img.shields.io/badge/Sort%20Algorithms-4B5563?style=flat-square" alt="Sort Algorithms" />
     <img src="https://img.shields.io/badge/Memory-8B8B8B?style=flat-square" alt="Memory" />
   </p>
 
