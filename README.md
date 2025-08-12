@@ -2,6 +2,7 @@
 <p align="center">Welcome to my Profile</p>
 <p align="center">Undergraduate Student in Computer Engineering • PUC-Campinas</p>
 
+<!-- ===== Extra visual header (badges + quick info) ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enzoconsulo&style=flat-square" alt="Profile views" />
   &nbsp; <img src="https://img.shields.io/badge/Now%20Learning-CS50:%20Computer%20Science%20Course-blue?style=flat-square&logo=java" alt="Now learning" />
@@ -23,6 +24,7 @@
 ---
 
 <div align="center">
+  <!-- small profile summary cards that adapt to theme -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzoconsulo&theme=github_dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzoconsulo&theme=github" />
@@ -49,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
 </p>
 
-**Main competencies (organized):**
+**Main competencies :**
 
 - **Languages:** Java (Intermediate), Python (Basic), C (Intermediate), SQL / MySQL (Basic)  
 - **Tools & Platforms:** Git(Basic), GitHub(Basic), Microsoft Excel(Basic), Adobe Photoshop (basic)  
@@ -143,6 +145,20 @@
     <img src="https://img.shields.io/badge/Tkinter-4B5563?style=flat-square" alt="Tkinter" />
     <img src="https://img.shields.io/badge/Search-BFS, DFS, A*-4B5563?style=flat-square" alt="A*" />
   </p>
+
+<p align="center">
+  For More:
+</p>
+
+<p align="center">
+  <a href="https://github.com/enzoconsulo?tab=repositories">
+    <img src="https://cdn-icons-png.flaticon.com/512/17404/17404308.png" 
+         alt="Repository" 
+         width="20" height="20" 
+         style="vertical-align:middle; margin-right:6px;">
+    Repositories
+  </a>
+</p>
 
 
 
