@@ -78,8 +78,8 @@
   <br /><br />
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoconsulo&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoconsulo&layout=compact&theme=light&hide_border=true&hide=Jupyter%20Notebook" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoconsulo&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook,Makefile" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoconsulo&layout=compact&theme=light&hide_border=true&hide=Jupyter%20Notebook,Makefile" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoconsulo&layout=compact&theme=dark&hide_border=true" style="border-radius:10px; margin-top:12px;"/>
   </picture>
 </div>
