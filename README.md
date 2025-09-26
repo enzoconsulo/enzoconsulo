@@ -5,8 +5,8 @@
 <!-- ===== Extra visual header (badges + quick info) ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enzoconsulo&style=flat-square" alt="Profile views" />
-  &nbsp; <img src="https://img.shields.io/badge/Now%20Learning-CS50:%20Computer%20Science%20Course-blue?style=flat-square&logo=java" alt="Now learning" />
-  &nbsp; <img src="https://img.shields.io/badge/Available-Open%20to%20Internships-green?style=flat-square" alt="Available" />
+  &nbsp; <img src="https://img.shields.io/badge/Now%20Learning-Functional%20Programming%20And%20Elixir-blue?style=flat-square&logo=java" alt="Now learning" />
+  &nbsp; <img src="https://img.shields.io/badge/Availability-Internship%20on%20BRP-red?style=flat-square" alt="Available" />
 </p>
 
 ---
@@ -187,8 +187,8 @@ All course exercises and materials are being uploaded to the repository: https:/
   <a href="https://github.com/enzoconsulo"><img src="https://img.shields.io/badge/GitHub-@enzoconsulo-grey?logo=github" alt="GitHub"/></a>
 </p>
 
-<p align="center"><strong>• Open to internship opportunities and collaborative projects.</strong></p>
+<p align="center"><strong>• Interning on backend development at BRP .</strong></p>
 <p align="center"><strong>• Focused on building clean, testable code and improving algorithmic skills.</strong></p>
 
 
-<p align="center"> README Last update: August 12, 2025</p>
+<p align="center"> README Last update: September 26, 2025</p>
