@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enzoconsulo&style=flat-square" alt="Profile views" />
   &nbsp; <img src="https://img.shields.io/badge/Now%20Learning-Functional%20Programming%20And%20Elixir-blue?style=flat-square&logo=java" alt="Now learning" />
-  &nbsp; <img src="https://img.shields.io/badge/Availability-Internship%20on%20BRP-red?style=flat-square" alt="Available" />
+  &nbsp; <img src="https://img.shields.io/badge/Availability-Intern%20on%20BRP-red?style=flat-square" alt="Iternship" />
 </p>
 
 ---
@@ -49,13 +49,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="Elixir" width="48" height="48" />
 </p>
 
 **Main competencies :**
 
-- **Languages:** Java (Intermediate), Python (Basic), C (Intermediate), SQL / MySQL (Basic)  
-- **Tools & Platforms:** Git(Basic), GitHub(Basic), Microsoft Excel(Basic), Adobe Photoshop (basic)  
-- **Databases:** Data modeling, Normalization, MySQL(Basic)
+- **Languages:** Java (Intermediate), Python (Basic), C (Intermediate), SQL (Intermediate), Elixir (Intermediate)  
+- **Tools & Platforms:** Git(Intermediate), GitHub(Intermediate), Microsoft Excel(Basic), Adobe Photoshop (basic)  
+- **Databases:** Data modeling, Normalization, SQL(Intermediate)
 - **Software Development:** System development, Coding, Desktop and Web systems  
 - **Paradigms & Algorithms:** Object-Oriented Programming, Data Structures, Algorithm Analysis  
 - **AI & Data:** Artificial Intelligence, Machine Learning, Data Analysis, Statistics, Linear Algebra  
@@ -171,9 +172,28 @@ Certificate: https://www.udemy.com/certificate/UC-f7b56527-53ab-41c9-8707-bfc047
 - **Completion:** July 2025.  
 
 
-**CS50 — Harvard University (in progress)**  
-All course exercises and materials are being uploaded to the repository: https://github.com/enzoconsulo/cs50HavardCourse  
-- Currently taking CS50 and actively completing exercises; repo contains solutions and practice code.
+**CS50 — Harvard University (Harvard no Brasil)**  
+Repository: https://github.com/enzoconsulo/cs50HavardCourse  
+- **70 h** intensive introduction to Computer Science, covering low-level and high-level programming concepts.  
+- Topics include **C** (memory management, pointers, data structures), **Python**, **SQL**, **HTML/CSS/JavaScript**, and **Flask** for web development.  
+- All problem sets and projects are organized by topic, with detailed `README.md` files explaining objectives and concepts.  
+- Course completed entirely in **English (without subtitles)** as a personal challenge to strengthen technical language skills.  
+- **Completion:** October 2025.
+
+---
+
+**Crie APIs GraphQL com Elixir e Absinthe — Udemy (Instructor: Rafael Camarda)**  
+- **4 h** of hands-on content focused on building **GraphQL APIs in Elixir** using **Absinthe** and **Phoenix**.  
+- Developed a complete GraphQL API for a **social network**, including users, posts, followers, and interactions.  
+- Topics covered:
+  - GraphQL fundamentals and schema design  
+  - Queries, mutations and **subscriptions (real-time updates)**  
+  - Pagination strategies  
+  - Error handling with middlewares  
+  - Testing GraphQL APIs  
+  - Integrating **GraphQL with REST APIs**  
+- Course taught in **Portuguese**, with strong focus on best practices and real-world architecture.  
+- **Completion:** 2025.
 
 ---
 
@@ -187,8 +207,8 @@ All course exercises and materials are being uploaded to the repository: https:/
   <a href="https://github.com/enzoconsulo"><img src="https://img.shields.io/badge/GitHub-@enzoconsulo-grey?logo=github" alt="GitHub"/></a>
 </p>
 
-<p align="center"><strong>• Interning on backend development at BRP .</strong></p>
+<p align="center"><strong>• Intern on connectivy backend development at BRP .</strong></p>
 <p align="center"><strong>• Focused on building clean, testable code and improving algorithmic skills.</strong></p>
 
 
-<p align="center"> README Last update: September 26, 2025</p>
+<p align="center"> README Last update: December 29, 2025</p>
