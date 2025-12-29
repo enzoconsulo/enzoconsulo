@@ -180,8 +180,6 @@ Repository: https://github.com/enzoconsulo/cs50HavardCourse
 - Course completed entirely in **English (without subtitles)** as a personal challenge to strengthen technical language skills.  
 - **Completion:** October 2025.
 
----
-
 **Crie APIs GraphQL com Elixir e Absinthe — Udemy (Instructor: Rafael Camarda)**  
 - **4 h** of hands-on content focused on building **GraphQL APIs in Elixir** using **Absinthe** and **Phoenix**.  
 - Developed a complete GraphQL API for a **social network**, including users, posts, followers, and interactions.  
